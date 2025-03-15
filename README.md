@@ -1,2 +1,2 @@
-# CLASE-1
+# CLASE1
 Este es mi primer repositorio
